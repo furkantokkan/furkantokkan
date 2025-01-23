@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programming enthusiast since 2017<br>📚 Currently learning Lua<br>🎮 Game Developer in the making<br>🐰 I have a pet rabbit</p>
+<p align="left">✨ Programming enthusiast since 2017<br>📚 Currently learning Lua<br>🎮 Game Developer<br>🐰 I have a pet rabbit</p>
 
 ###
 
