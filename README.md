@@ -9,10 +9,11 @@
 
 ## 💼 Professional Summary
 
-**Senior Game Developer** with **5+ years of Unity experience** specializing in **mobile game development** and **real-time multiplayer systems**. Proven track record of **shipping successful titles** on both iOS and Android platforms. Expert in **performance optimization**, **UI systems**, and **scalable game architectures**.
+**Senior Game Developer** with **5+ years of Unity experience** specializing in **mobile game development** and **real-time multiplayer systems**. Expert in **advanced Unity frameworks** including UniRx, Zenject, and Odin Inspector. Proven track record of **shipping successful titles** on both iOS and Android platforms.
 
 **🎯 Core Expertise:**
 - ✅ **5+ years Unity3D** development experience  
+- ✅ **Advanced Unity frameworks** (UniRx, Zenject, Odin Inspector)
 - ✅ **Mobile platform expertise** (iOS/Android)
 - ✅ **UI, Audio, Animation Systems** implementation
 - ✅ **CPU/GPU optimization** and performance tuning
@@ -48,7 +49,7 @@
 
 ### 🖥️ **PC Games (Steam)**
 
-#### 🚀 **[Ketz: Galactic Overlords](https://store.steampowered.com/app/2542140/Ketz_Galactic_Overlords/)** | *Roguelike Horde Survival*
+#### 🚀 **Ketz: Galactic Overlords** | *Roguelike Horde Survival*
 > **Sci-fantasy roguelike** with RPG elements and game-breaking skill combinations
 - 🎭 **5 unique characters** with distinct attack styles and gameplay
 - 👑 **10 Galactic Leaders** offering 100+ powerful abilities
@@ -56,7 +57,9 @@
 - 🏟️ **11 interactive monuments** and dynamic environmental gameplay
 - 🎯 **Early Access success** with active community and regular updates
 
-#### 🏰 **[Feudal Friends](https://store.steampowered.com/app/2317820/Feudal_Friends/)** | *4-Player Co-op Strategy*
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2542140/Ketz_Galactic_Overlords/)
+
+#### 🏰 **Feudal Friends** | *4-Player Co-op Strategy*
 > **Medieval tower defense** with role-based co-op gameplay and chaotic multiplayer action
 - 👥 **1-4 player online co-op** with dedicated role system
 - ⚔️ **Role specialization** - Commander, Engineer, Blacksmith, Armorer
@@ -64,7 +67,9 @@
 - 🎮 **40+ strategic runes** for diverse gameplay approaches
 - 🎪 **Chaotic multiplayer** with friend sabotage mechanics
 
-#### 🎯 **[Topac Battle](https://store.steampowered.com/app/2839420/Topac_Battle/)** | *Idle Creature Collector*
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2317820/Feudal_Friends/)
+
+#### 🎯 **Topac Battle** | *Idle Creature Collector*
 > **Cozy idle game** with monster collection, evolution, and park management
 - 🐾 **18 unique monsters** across 7 rarity tiers
 - 🌱 **3-generation evolution** system with feeding mechanics
@@ -72,13 +77,17 @@
 - 💰 **Battle & trading economy** for strategic monster management
 - 😴 **Offline progression** - monsters hunt and grow while away
 
-#### 🖥️ **[Desktop Engine](https://store.steampowered.com/app/3434930/Desktop_Engine/)** | *Interactive Desktop Utility*
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2839420/Topac_Battle/)
+
+#### 🖥️ **Desktop Engine** | *Interactive Desktop Utility*
 > **Desktop transformation tool** with 3D characters, physics, and VRM support
 - 🎭 **3D character integration** with real-time desktop interaction
 - 🎬 **VRM file support** for VRoid Studio characters
 - ⚙️ **Built-in physics engine** for dynamic character behavior
 - 🎨 **Steam Workshop integration** for community content
 - 🖱️ **Mouse tracking & eye contact** for interactive experiences
+
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/3434930/Desktop_Engine/)
 
 ---
 
@@ -92,6 +101,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="C# Programming" title="C# Expert"/>
 <img width="20" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" title="C++ Development"/>
+
+### **Advanced Unity Frameworks**
+<img src="https://img.shields.io/badge/UniRx-FF6B6B?style=for-the-badge&logo=unity&logoColor=white" alt="UniRx"/>
+<img src="https://img.shields.io/badge/Zenject-4ECDC4?style=for-the-badge&logo=unity&logoColor=white" alt="Zenject"/>
+<img src="https://img.shields.io/badge/Odin%20Inspector-45B7D1?style=for-the-badge&logo=unity&logoColor=white" alt="Odin Inspector"/>
+<img src="https://img.shields.io/badge/DOTween-96CEB4?style=for-the-badge&logo=unity&logoColor=white" alt="DOTween"/>
 
 ### **Mobile & Graphics**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="Android"/>
@@ -122,6 +137,13 @@
 
 ## 💡 Professional Expertise
 
+### **Advanced Unity Development**
+- 🔄 **UniRx (Reactive Extensions)** - Event-driven programming and async operations
+- 💉 **Zenject (Dependency Injection)** - Clean architecture and testable code
+- 🔧 **Odin Inspector** - Advanced editor scripting and custom inspectors
+- 🎬 **DOTween** - Smooth animations and tweening systems
+- 📝 **Custom Editor Tools** - Productivity-enhancing development workflows
+
 ### **Game Development Specializations**
 - 🎮 **Multiplayer Systems** - Real-time PvP, co-op, and networking solutions
 - 📱 **Mobile Optimization** - Performance tuning for various device capabilities
@@ -146,6 +168,7 @@
 - 📚 **Game development education** and community training
 - 🚀 **Full development cycle** from concept to live operations
 - 🏆 **Mixed to Mostly Positive** Steam reviews across portfolio
+- 🔧 **Advanced tooling expertise** with industry-standard frameworks
 
 ---
 
@@ -165,11 +188,13 @@
 ## 🎯 What I Bring
 
 - ✅ **5+ years** of Unity game development experience
+- ✅ **Advanced Unity frameworks** mastery (UniRx, Zenject, Odin Inspector)
 - ✅ **Shipped 6 games** across mobile, PC, and utility platforms
 - ✅ **Diverse game genres** - Racing, Strategy, Roguelike, Idle, Co-op
 - ✅ **Mobile-first expertise** with cross-platform deployment
 - ✅ **Community management** through Early Access development
 - ✅ **Technical innovation** in physics, networking, and UI systems
+- ✅ **Clean architecture** with dependency injection and reactive programming
 
 ---
 
