@@ -26,27 +26,59 @@
 
 ### 📱 **Mobile Games (Live on Stores)**
 
-#### 🏃‍♂️ **Magic Run/Race** | *Real-time PvP Racing Game*
-> **Cross-platform multiplayer racing** with advanced networking & UI systems
-- 🎮 **Real-time multiplayer** with custom networking
-- 📱 **Live on both platforms** - iOS & Android
-- ⚡ **Optimized performance** for mobile devices
-- 🎨 **Custom UI/UX** and animation systems
+#### 🏃‍♂️ **Magic Run/Race** | *4-Player PvP Racing*
+> **Real-time multiplayer racing** with 12+ unique characters and 14 diverse maps
+- 🎮 **4-player real-time PvP** racing with strategic abilities
+- 🎨 **12+ unique characters** each with special powers and playstyles
+- 🗺️ **14 diverse racing maps** with varied terrains and challenges
+- 🏆 **Online leaderboards** and friendship system for social competition
+- ⚡ **Cross-platform support** - seamless iOS & Android experience
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ChangeMaker.MagicRun) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/tr/app/magic-race/id6447768602)
 
-#### ⚔️ **Conqueror of Fantasy** | *Strategic Auto-Chess*
-> **Complex strategy mechanics** with competitive multiplayer gameplay
-- 🎲 **Advanced game logic** and AI systems
-- ⚡ **Real-time PvP battles** with optimized networking
-- 🎯 **Strategic gameplay** with complex balancing systems
+#### ⚔️ **Conqueror of Fantasy** | *Deck-Building Auto-Chess*
+> **Strategic deck-building** meets real-time tactical combat in fantasy arena
+- 🎲 **Deck building + auto-chess** hybrid gameplay mechanics
+- ⚡ **Real-time PvP battles** with tactical hero placement
+- 🏰 **Hero progression system** with upgrades and customization
+- 🎯 **Master-level strategy** requiring tactical thinking and timing
+- 👑 **Arena dominance** through deck optimization and battlefield control
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.GamesUnited.ConquerorOfFantasy&hl=en)
 
 ### 🖥️ **PC Games (Steam)**
-- 🚀 **[Ketz: Galactic Overlords](https://store.steampowered.com/app/2542140/Ketz_Galactic_Overlords/)** - Advanced combat systems with performance optimization
-- 🏰 **[Feudal Friends](https://store.steampowered.com/app/2317820/Feudal_Friends/)** - 4v4 multiplayer with custom networking
-- 🛠️ **[Desktop Engine](https://store.steampowered.com/app/3434930/Desktop_Engine/)** - Developer productivity tool
+
+#### 🚀 **[Ketz: Galactic Overlords](https://store.steampowered.com/app/2542140/Ketz_Galactic_Overlords/)** | *Roguelike Horde Survival*
+> **Sci-fantasy roguelike** with RPG elements and game-breaking skill combinations
+- 🎭 **5 unique characters** with distinct attack styles and gameplay
+- 👑 **10 Galactic Leaders** offering 100+ powerful abilities
+- 💎 **500+ items & 7 gem types** for endless build customization
+- 🏟️ **11 interactive monuments** and dynamic environmental gameplay
+- 🎯 **Early Access success** with active community and regular updates
+
+#### 🏰 **[Feudal Friends](https://store.steampowered.com/app/2317820/Feudal_Friends/)** | *4-Player Co-op Strategy*
+> **Medieval tower defense** with role-based co-op gameplay and chaotic multiplayer action
+- 👥 **1-4 player online co-op** with dedicated role system
+- ⚔️ **Role specialization** - Commander, Engineer, Blacksmith, Armorer
+- 🏗️ **Resource management** and production optimization
+- 🎮 **40+ strategic runes** for diverse gameplay approaches
+- 🎪 **Chaotic multiplayer** with friend sabotage mechanics
+
+#### 🎯 **[Topac Battle](https://store.steampowered.com/app/2839420/Topac_Battle/)** | *Idle Creature Collector*
+> **Cozy idle game** with monster collection, evolution, and park management
+- 🐾 **18 unique monsters** across 7 rarity tiers
+- 🌱 **3-generation evolution** system with feeding mechanics
+- 🏞️ **Multiple parks** with 100-creature capacity expansion
+- 💰 **Battle & trading economy** for strategic monster management
+- 😴 **Offline progression** - monsters hunt and grow while away
+
+#### 🖥️ **[Desktop Engine](https://store.steampowered.com/app/3434930/Desktop_Engine/)** | *Interactive Desktop Utility*
+> **Desktop transformation tool** with 3D characters, physics, and VRM support
+- 🎭 **3D character integration** with real-time desktop interaction
+- 🎬 **VRM file support** for VRoid Studio characters
+- ⚙️ **Built-in physics engine** for dynamic character behavior
+- 🎨 **Steam Workshop integration** for community content
+- 🖱️ **Mouse tracking & eye contact** for interactive experiences
 
 ---
 
@@ -90,33 +122,30 @@
 
 ## 💡 Professional Expertise
 
-### **Mobile Platform Mastery**
-- 📱 **Deep understanding** of iOS/Android requirements and limitations
-- ⚡ **Performance optimization** for various mobile devices
-- 🔋 **Battery & memory optimization** for long gaming sessions
-- 📊 **Analytics integration** and data-driven development
+### **Game Development Specializations**
+- 🎮 **Multiplayer Systems** - Real-time PvP, co-op, and networking solutions
+- 📱 **Mobile Optimization** - Performance tuning for various device capabilities
+- 🎨 **UI/UX Design** - Responsive interfaces and smooth user experiences
+- 🎲 **Game Mechanics** - From idle mechanics to complex strategy systems
+- 🛠️ **Tools Development** - Custom editors and productivity applications
 
-### **Unity Systems Expertise**
-- 🎨 **UI Systems** - Complex mobile interfaces and responsive design
-- 🎵 **Audio Systems** - Spatial audio and mobile-optimized sound
-- 🎬 **Animation Systems** - Character animation and UI transitions
-- ✨ **Shader Effects** - Custom shaders for mobile performance
-
-### **Multiplayer & Networking**
-- 🌐 **Real-time multiplayer** implementation
-- 🔧 **Mirror Networking** and custom solutions
-- 📡 **Client-server architecture** design
-- 🛡️ **Anti-cheat** and security considerations
+### **Technical Achievements**
+- ⚡ **Cross-platform deployment** across mobile and PC platforms
+- 🎯 **Steam Early Access** management with community feedback integration
+- 🌐 **Networking architecture** for stable multiplayer experiences
+- 📊 **Analytics implementation** for data-driven game improvements
+- 🎪 **Physics integration** for dynamic and interactive gameplay
 
 ---
 
-## 📈 Professional Experience
+## 📈 Professional Experience Highlights
 
-- 🎯 **5+ years** of professional game development
-- 📱 **Multiple published games** across mobile and PC platforms
-- 👥 **Team leadership** and mentoring experience
-- 📚 **Game development training** and education
-- 🚀 **Full development cycle** experience from concept to live ops
+- 🎯 **5+ years** of professional Unity game development
+- 📱 **6 published games** across mobile, PC, and utility software
+- 👥 **Team leadership** in co-op development environments
+- 📚 **Game development education** and community training
+- 🚀 **Full development cycle** from concept to live operations
+- 🏆 **Mixed to Mostly Positive** Steam reviews across portfolio
 
 ---
 
@@ -136,12 +165,11 @@
 ## 🎯 What I Bring
 
 - ✅ **5+ years** of Unity game development experience
-- ✅ **Shipped multiple games** across mobile and PC platforms
-- ✅ **Expert in C# & Unity** with deep engine knowledge
-- ✅ **Mobile optimization** and performance tuning specialist
-- ✅ **Multiplayer systems** and real-time networking experience
-- ✅ **Team leadership** and project management skills
-- ✅ **Continuous learning** mindset with latest technologies
+- ✅ **Shipped 6 games** across mobile, PC, and utility platforms
+- ✅ **Diverse game genres** - Racing, Strategy, Roguelike, Idle, Co-op
+- ✅ **Mobile-first expertise** with cross-platform deployment
+- ✅ **Community management** through Early Access development
+- ✅ **Technical innovation** in physics, networking, and UI systems
 
 ---
 
