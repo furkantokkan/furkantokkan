@@ -53,7 +53,7 @@
 
 #### 🚀 **Ketz: Galactic Overlords** | *Roguelike Horde Survival*
 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&label=PLAY%20NOW)](https://store.steampowered.com/app/2542140/Ketz_Galactic_Overlords/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&label=DOWNLOAD)](https://store.steampowered.com/app/2542140/Ketz_Galactic_Overlords/)
 
 > **Sci-fantasy roguelike** with RPG elements and game-breaking skill combinations
 - 🎭 **5 unique characters** with distinct attack styles and gameplay
@@ -64,7 +64,7 @@
 
 #### 🏰 **Feudal Friends** | *4-Player Co-op Strategy*
 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&label=PLAY%20NOW)](https://store.steampowered.com/app/2317820/Feudal_Friends/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&label=DOWNLOAD)](https://store.steampowered.com/app/2317820/Feudal_Friends/)
 
 > **Medieval tower defense** with role-based co-op gameplay and chaotic multiplayer action
 - 👥 **1-4 player online co-op** with dedicated role system
@@ -75,7 +75,7 @@
 
 #### 🎯 **Topac Battle** | *Idle Creature Collector*
 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&label=PLAY%20NOW)](https://store.steampowered.com/app/2839420/Topac_Battle/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&label=DOWNLOAD)](https://store.steampowered.com/app/2839420/Topac_Battle/)
 
 > **Cozy idle game** with monster collection, evolution, and park management
 - 🐾 **18 unique monsters** across 7 rarity tiers
