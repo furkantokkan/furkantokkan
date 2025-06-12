@@ -28,6 +28,9 @@
 ### 📱 **Mobile Games (Live on Stores)**
 
 #### 🏃‍♂️ **Magic Run/Race** | *4-Player PvP Racing*
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&label=DOWNLOAD)](https://play.google.com/store/apps/details?id=com.ChangeMaker.MagicRun) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white&label=DOWNLOAD)](https://apps.apple.com/tr/app/magic-race/id6447768602)
+
 > **Real-time multiplayer racing** with 12+ unique characters and 14 diverse maps
 - 🎮 **4-player real-time PvP** racing with strategic abilities
 - 🎨 **12+ unique characters** each with special powers and playstyles
@@ -35,9 +38,10 @@
 - 🏆 **Online leaderboards** and friendship system for social competition
 - ⚡ **Cross-platform support** - seamless iOS & Android experience
 
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ChangeMaker.MagicRun) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/tr/app/magic-race/id6447768602)
-
 #### ⚔️ **Conqueror of Fantasy** | *Deck-Building Auto-Chess*
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&label=DOWNLOAD)](https://play.google.com/store/apps/details?id=com.GamesUnited.ConquerorOfFantasy&hl=en)
+
 > **Strategic deck-building** meets real-time tactical combat in fantasy arena
 - 🎲 **Deck building + auto-chess** hybrid gameplay mechanics
 - ⚡ **Real-time PvP battles** with tactical hero placement
@@ -45,11 +49,12 @@
 - 🎯 **Master-level strategy** requiring tactical thinking and timing
 - 👑 **Arena dominance** through deck optimization and battlefield control
 
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.GamesUnited.ConquerorOfFantasy&hl=en)
-
 ### 🖥️ **PC Games (Steam)**
 
 #### 🚀 **Ketz: Galactic Overlords** | *Roguelike Horde Survival*
+
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&label=PLAY%20NOW)](https://store.steampowered.com/app/2542140/Ketz_Galactic_Overlords/)
+
 > **Sci-fantasy roguelike** with RPG elements and game-breaking skill combinations
 - 🎭 **5 unique characters** with distinct attack styles and gameplay
 - 👑 **10 Galactic Leaders** offering 100+ powerful abilities
@@ -57,9 +62,10 @@
 - 🏟️ **11 interactive monuments** and dynamic environmental gameplay
 - 🎯 **Early Access success** with active community and regular updates
 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2542140/Ketz_Galactic_Overlords/)
-
 #### 🏰 **Feudal Friends** | *4-Player Co-op Strategy*
+
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&label=PLAY%20NOW)](https://store.steampowered.com/app/2317820/Feudal_Friends/)
+
 > **Medieval tower defense** with role-based co-op gameplay and chaotic multiplayer action
 - 👥 **1-4 player online co-op** with dedicated role system
 - ⚔️ **Role specialization** - Commander, Engineer, Blacksmith, Armorer
@@ -67,9 +73,10 @@
 - 🎮 **40+ strategic runes** for diverse gameplay approaches
 - 🎪 **Chaotic multiplayer** with friend sabotage mechanics
 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2317820/Feudal_Friends/)
-
 #### 🎯 **Topac Battle** | *Idle Creature Collector*
+
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&label=PLAY%20NOW)](https://store.steampowered.com/app/2839420/Topac_Battle/)
+
 > **Cozy idle game** with monster collection, evolution, and park management
 - 🐾 **18 unique monsters** across 7 rarity tiers
 - 🌱 **3-generation evolution** system with feeding mechanics
@@ -77,17 +84,16 @@
 - 💰 **Battle & trading economy** for strategic monster management
 - 😴 **Offline progression** - monsters hunt and grow while away
 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2839420/Topac_Battle/)
-
 #### 🖥️ **Desktop Engine** | *Interactive Desktop Utility*
+
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&label=DOWNLOAD)](https://store.steampowered.com/app/3434930/Desktop_Engine/)
+
 > **Desktop transformation tool** with 3D characters, physics, and VRM support
 - 🎭 **3D character integration** with real-time desktop interaction
 - 🎬 **VRM file support** for VRoid Studio characters
 - ⚙️ **Built-in physics engine** for dynamic character behavior
 - 🎨 **Steam Workshop integration** for community content
 - 🖱️ **Mouse tracking & eye contact** for interactive experiences
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/3434930/Desktop_Engine/)
 
 ---
 
