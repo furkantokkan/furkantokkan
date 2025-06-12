@@ -114,14 +114,15 @@
 <img src="https://img.shields.io/badge/Odin%20Inspector-45B7D1?style=for-the-badge&logo=unity&logoColor=white" alt="Odin Inspector"/>
 <img src="https://img.shields.io/badge/DOTween-96CEB4?style=for-the-badge&logo=unity&logoColor=white" alt="DOTween"/>
 
-### **Mobile & Graphics**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="Android"/>
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="45" alt="iOS"/>
-<img width="15" />
+### **Graphics Programming**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="45" alt="OpenGL"/>
 <img width="15" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45" alt="OpenCV"/>
+
+### **Mobile Platforms**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="Android"/>
+<img width="15" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="45" alt="iOS"/>
 
 ### **Backend & Cloud**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="Firebase"/>
