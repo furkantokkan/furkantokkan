@@ -179,19 +179,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkantokkan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkantokkan&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkantokkan&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🎯 What I Bring
 
 - ✅ **5+ years** of Unity game development experience
