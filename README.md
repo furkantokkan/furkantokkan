@@ -49,6 +49,28 @@
 - 🎯 **Master-level strategy** requiring tactical thinking and timing
 - 👑 **Arena dominance** through deck optimization and battlefield control
 
+#### 🎯 **Bob.G** | *Battle Royale with Zombie Mode*
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white&label=DOWNLOAD)](https://apps.apple.com/tr/app/bob-g/id6443661606) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=SOURCE)](https://github.com/furkantokkan/BobG)
+
+> **Cartoon-style battle royale** with intense PvP action and spine-chilling zombie survival mode
+- 🎮 **Battle Royale mechanics** with vibrant cartoon-style graphics
+- 🧟 **Zombie Mode Extravaganza** - survive against endless undead hordes
+- ⚔️ **Intense PvP combat** with strategic weapon and item management
+- 🏆 **Multiple game modes** offering varied gameplay experiences
+- 🎨 **Colorful 3D environments** with engaging visual effects
+
+#### 🏗️ **Coin Smash ASMR** | *Physics-Based Tower Destruction*
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white&label=DOWNLOAD)](https://apps.apple.com/tr/app/coin-smash-asmr/id1667389248) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=SOURCE)](https://github.com/furkantokkan/Coin_Smash_ASMR)
+
+> **Satisfying physics-based destruction** with coin tower mechanics and ASMR elements
+- 🪙 **Coin tower building** with realistic physics simulation
+- 🎯 **Ball shooting mechanics** for precise tower destruction
+- 🔊 **ASMR experience** with satisfying audio feedback
+- 🏗️ **Unique building destruction** featuring various tower designs
+- ⚡ **Smooth physics engine** providing realistic collision and destruction
+
 ### 🖥️ **PC Games (Steam)**
 
 #### 🚀 **Ketz: Galactic Overlords** | *Roguelike Horde Survival*
@@ -170,7 +192,7 @@
 ## 📈 Professional Experience Highlights
 
 - 🎯 **5+ years** of professional Unity game development
-- 📱 **6 published games** across mobile, PC, and utility software
+- 📱 **8 published games** across mobile, PC, and utility software
 - 👥 **Team leadership** in co-op development environments
 - 📚 **Game development education** and community training
 - 🚀 **Full development cycle** from concept to live operations
@@ -183,8 +205,8 @@
 
 - ✅ **5+ years** of Unity game development experience
 - ✅ **Advanced Unity frameworks** mastery (UniRx, Zenject, Odin Inspector)
-- ✅ **Shipped 6 games** across mobile, PC, and utility platforms
-- ✅ **Diverse game genres** - Racing, Strategy, Roguelike, Idle, Co-op
+- ✅ **Shipped 8 games** across mobile, PC, and utility platforms
+- ✅ **Diverse game genres** - Racing, Strategy, Roguelike, Idle, Co-op, Battle Royale
 - ✅ **Mobile-first expertise** with cross-platform deployment
 - ✅ **Community management** through Early Access development
 - ✅ **Technical innovation** in physics, networking, and UI systems
