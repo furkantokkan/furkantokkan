@@ -120,13 +120,14 @@
 ---
 
 ## 🛠️ Technical Stack
-⚡ C# - Desktop applications and game development
-🚀 C++ - Game engine and AI development
-🏗️ .NET - Cross-platform and Windows server applications for RESTful APIs
-🎮 Unity - Cross-platform game engine and interactive content development
-☁️ Azure - Cloud infrastructure, hosting, and comprehensive backend services
-🔥 Firebase - Real-time database, authentication, Cloud, Firestore, Analytics
-🎯 PlayFab - Game backend services, player data management, and analytics
+
+- ⚡ C# - Desktop applications and game development
+- 🚀 C++ - Game engine and AI development
+- 🏗️ .NET - Cross-platform and Windows server applications for RESTful APIs
+- 🎮 Unity - Cross-platform game engine and interactive content development
+- ☁️ Azure - Cloud infrastructure, hosting, and comprehensive backend services
+- 🔥 Firebase - Real-time database, authentication, Cloud, Firestore, Analytics
+- 🎯 PlayFab - Game backend services, player data management, and analytics
 
 ---
 
