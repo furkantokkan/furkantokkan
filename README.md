@@ -23,6 +23,18 @@
 
 ---
 
+## 🛠️ Technical Stack
+
+- ⚡ C# - Desktop applications and game development
+- 🚀 C++ - Game engine and AI development
+- 🏗️ .NET - Cross-platform and Windows server applications for RESTful APIs
+- 🎮 Unity - Cross-platform game engine and interactive content development
+- ☁️ Azure - Cloud infrastructure, hosting, and comprehensive backend services
+- 🔥 Firebase - Real-time database, authentication, Cloud, Firestore, Analytics
+- 🎯 PlayFab - Game backend services, player data management, and analytics
+
+---
+
 ## 🚀 Published Games Portfolio
 
 ### 📱 **Mobile Games (Live on Stores)**
@@ -116,18 +128,6 @@
 - ⚙️ **Built-in physics engine** for dynamic character behavior
 - 🎨 **Steam Workshop integration** for community content
 - 🖱️ **Mouse tracking & eye contact** for interactive experiences
-
----
-
-## 🛠️ Technical Stack
-
-- ⚡ C# - Desktop applications and game development
-- 🚀 C++ - Game engine and AI development
-- 🏗️ .NET - Cross-platform and Windows server applications for RESTful APIs
-- 🎮 Unity - Cross-platform game engine and interactive content development
-- ☁️ Azure - Cloud infrastructure, hosting, and comprehensive backend services
-- 🔥 Firebase - Real-time database, authentication, Cloud, Firestore, Analytics
-- 🎯 PlayFab - Game backend services, player data management, and analytics
 
 ---
 
