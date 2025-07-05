@@ -120,47 +120,13 @@
 ---
 
 ## 🛠️ Technical Stack
-
-<div align="center">
-
-### **Core Development**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="Unity Engine" title="Unity3D - 5+ Years"/>
-<img width="20" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="C# Programming" title="C# Expert"/>
-<img width="20" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" title="C++ Development"/>
-
-### **Advanced Unity Frameworks**
-<img src="https://img.shields.io/badge/UniRx-FF6B6B?style=for-the-badge&logo=unity&logoColor=white" alt="UniRx"/>
-<img src="https://img.shields.io/badge/Zenject-4ECDC4?style=for-the-badge&logo=unity&logoColor=white" alt="Zenject"/>
-<img src="https://img.shields.io/badge/Odin%20Inspector-45B7D1?style=for-the-badge&logo=unity&logoColor=white" alt="Odin Inspector"/>
-<img src="https://img.shields.io/badge/DOTween-96CEB4?style=for-the-badge&logo=unity&logoColor=white" alt="DOTween"/>
-
-### **Graphics Programming**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="45" alt="OpenGL"/>
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45" alt="OpenCV"/>
-
-### **Mobile Platforms**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="Android"/>
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="45" alt="iOS"/>
-
-### **Backend & Cloud**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="Firebase"/>
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="Azure"/>
-<img width="15" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="45" alt="AWS"/>
-
-### **Additional Languages**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua"/>
-
-</div>
+⚡ C# - Desktop applications and game development
+🚀 C++ - Game engine and AI development
+🏗️ .NET - Cross-platform and Windows server applications for RESTful APIs
+🎮 Unity - Cross-platform game engine and interactive content development
+☁️ Azure - Cloud infrastructure, hosting, and comprehensive backend services
+🔥 Firebase - Real-time database, authentication, Cloud, Firestore, Analytics
+🎯 PlayFab - Game backend services, player data management, and analytics
 
 ---
 
